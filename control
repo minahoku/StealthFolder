@@ -1,0 +1,9 @@
+Package: com.minahoku.stealthfolder
+Name: StealthFolder
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: minahoku
+Author: minahoku
+Section: Tweaks
